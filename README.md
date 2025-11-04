@@ -46,7 +46,7 @@ This repository contains resources for analyzing and improving OLAcabs' operatio
 
 ## Revenue Dashboard
 
-![Revenue Dashboard](https://github.com/Saswati-18/OLA-Rides-Analysis/blob/main/revenue.png)
+![Revenue Dashboard](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/revenue.png)
 
 ## Cancellation Dashboard
 
