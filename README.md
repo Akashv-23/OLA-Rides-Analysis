@@ -42,7 +42,7 @@ This repository contains resources for analyzing and improving OLAcabs' operatio
 
 ## Vehicle Dashboard
 
-![Vehicle Dashboard](https://github.com/Saswati-18/OLA-Rides-Analysis/blob/main/Vehicle.png)
+![Vehicle Dashboard](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/Vehicle.png)
 
 ## Revenue Dashboard
 
