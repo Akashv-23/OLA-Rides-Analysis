@@ -50,7 +50,7 @@ This repository contains resources for analyzing and improving OLAcabs' operatio
 
 ## Cancellation Dashboard
 
-![Cancellation Dashboard](https://github.com/Saswati-18/OLA-Rides-Analysis/blob/main/cancellation.png)
+![Cancellation Dashboard](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/cancellation.png)
 
 ## Rating Dashboard
 
