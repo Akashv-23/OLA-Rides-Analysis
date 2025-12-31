@@ -1,14 +1,14 @@
 # OLA-Rides-Analysis
 ![](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/ola%20logo%20-3.png)
 
-This repository contains resources for analyzing and improving OLAcabs' operations in India. It includes:
+This repository contains resources for analyzing and improving 'OLA cabs' operations in India. It includes:
 - 📊 **Dashboards** showcasing visual insights
 
 ## ⚠️ Problem Statement
 
 * Ride Volume Over Time
 * Booking Status Breakdown
-* Top 5 Vehicle Types by Ride Distance
+* Top 5 Vehicle Types by Average Ride Distance
 * Average Customer Ratings by Vehicle Type
 * cancelled Rides Reasons
 * Revenue by Payment Method
@@ -16,6 +16,7 @@ This repository contains resources for analyzing and improving OLAcabs' operatio
 * Ride Distance Distribution Per Day
 * Driver Ratings Distribution
 * Customer vs. Driver Ratings
+* Vehicle turnaround time
 
 ## 🎯 Objective
 
@@ -40,15 +41,15 @@ This repository contains resources for analyzing and improving OLAcabs' operatio
 
 ![Overview Dashboard](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/overview.png)
 
-## Vehicle Dashboard
+## Vehicle Insights Dashboard
 
 ![Vehicle Dashboard](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/vehicle_insights.png)
 
-## Revenue Dashboard
+## Revenue Analysis Dashboard
 
 ![Revenue Dashboard](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/revenue_analysis.png)
 
-## Cancellation Dashboard
+## Cancellations Dashboard
 
 ![Cancellation Dashboard](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/cancellations.png)
 
@@ -60,8 +61,9 @@ This repository contains resources for analyzing and improving OLAcabs' operatio
 * **Top Vehicle Types by Distance** – Prime Sedan (15.76 km) leads, while Auto (6.24 km) has the shortest rides.
 * **Customer Ratings** – Average 4.00 across all vehicle types, with eBike & Bike slightly lower (3.99).
 * **Cancellations** – 35% due to driver issues, 30% by customers (change of plans, AC issues, etc.).
+* **Driver Ratings**– Stable at 4.00, mirroring customer ratings.
 * **Revenue by Payment** – 55% via Cash, 40% UPI, low card usage (3.7%).
 * **Top Customers**– Highest spender booked 6K+ rides, showing strong loyalty.
 * **Ride Distance Trends** – Longer rides generate higher revenue.
-* **Driver Ratings**– Stable at 4.00, mirroring customer ratings.
 * **Customer vs. Driver Ratings** – Balanced at 4.00, indicating mutual satisfaction.
+* **Vehicle turnaround time** – Average of approx. 171 minutes
