@@ -34,7 +34,7 @@ This repository contains resources for analyzing and improving OLAcabs' operatio
 
 ## Front Page
 
-![Front Page](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/Front.png)
+![Front Page](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/front.png)
 
 ## Overview Dashboard
 
@@ -42,20 +42,15 @@ This repository contains resources for analyzing and improving OLAcabs' operatio
 
 ## Vehicle Dashboard
 
-![Vehicle Dashboard](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/Vehicle.png)
+![Vehicle Dashboard](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/vehicle_insights.png)
 
 ## Revenue Dashboard
 
-![Revenue Dashboard](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/revenue.png)
+![Revenue Dashboard](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/revenue_analysis.png)
 
 ## Cancellation Dashboard
 
-![Cancellation Dashboard](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/cancellation.png)
-
-## Rating Dashboard
-
-![Rating Dashboard](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/rating.png)
-
+![Cancellation Dashboard](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/cancellations.png)
 
 
 ## 💡 Key Insights
