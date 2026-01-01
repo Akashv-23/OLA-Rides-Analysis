@@ -39,7 +39,6 @@ FROM bookings
 WHERE `Ride_Distance (Km)` > 0
 GROUP BY Pickup_Location, Drop_Location
 ORDER BY revenue_per_km DESC; 
-select * from bookings;
 
 -- 5. Which payment method contributes the most revenue?
 SELECT
@@ -118,4 +117,5 @@ SELECT
         2
     ) AS revenue_loss_percentage
 FROM vehicle_revenue
+
 ORDER BY revenue_loss_percentage DESC;
