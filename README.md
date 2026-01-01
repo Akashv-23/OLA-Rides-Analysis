@@ -1,5 +1,5 @@
 # OLA-Rides-Analysis
-![](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/ola%20logo%20-3.png)
+![](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/images/ola%logo-3.png)
 
 This repository contains resources for analyzing and improving 'OLA cabs' operations in India. It includes:
 - 📊 **Dashboards** showcasing visual insights
