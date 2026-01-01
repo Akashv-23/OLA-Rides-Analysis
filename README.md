@@ -1,7 +1,8 @@
 # OLA-Rides-Analysis
 ![](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/images/ola_logo.png)
 
-This repository contains resources for analyzing and improving 'OLA cabs' operations in India. It includes:
+This project demonstrates a full workflow of *data analysis and visualization* on Ola cab bookings data. It includes-
+- data cleaning, exploratory analysis in SQL
 - 📊 **Dashboards** showcasing visual insights
 
 ## ⚠️ Problem Statement
@@ -35,23 +36,23 @@ This repository contains resources for analyzing and improving 'OLA cabs' operat
 
 ## Front Page
 
-![Front Page](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/front.png)
+![Front Page](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/images/front.png)
 
 ## Overview Dashboard
 
-![Overview Dashboard](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/overview.png)
+![Overview Dashboard](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/images/overview.png)
 
 ## Vehicle Insights Dashboard
 
-![Vehicle Dashboard](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/vehicle_insights.png)
+![Vehicle Dashboard](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/images/vehicle_insights.png)
 
 ## Revenue Analysis Dashboard
 
-![Revenue Dashboard](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/revenue_analysis.png)
+![Revenue Dashboard](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/images/revenue_analysis.png)
 
 ## Cancellations Dashboard
 
-![Cancellation Dashboard](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/cancellations.png)
+![Cancellation Dashboard](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/images/cancellations.png)
 
 
 ## 💡 Key Insights
