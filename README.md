@@ -2,7 +2,7 @@
 ![](https://github.com/Akashv-23/OLA-Rides-Analysis/blob/main/images/ola_logo.png)
 
 This project demonstrates a full workflow of *data analysis and visualization* on Ola cab bookings data. It includes-
-- data cleaning, exploratory analysis in SQL
+- **Data cleaning,exploratory analysis** in SQL
 - 📊 **Dashboards** showcasing visual insights
 
 ## ⚠️ Problem Statement
