@@ -31,7 +31,7 @@ This project demonstrates a full workflow of *data analysis and visualization* o
 * Ride Distance Distribution Per Day: Examine daily ride distance variations to optimize driver allocation and operational efficiency.
 
 ## 👩‍💻 Tech Stack
-
+- **Data cleaning,exploratory data analysis**: SQL
 - **Data Visualization**: Power BI 
 
 ## Front Page
